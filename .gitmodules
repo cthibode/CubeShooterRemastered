@@ -1,0 +1,4 @@
+[submodule "libraries"]
+	path = libraries
+	url = https://github.com/cthibode/libraries.git
+	branch = master
